@@ -1,10 +1,11 @@
 import React from 'react';
+import Table from './components/BasicTable'
 
 
 const App = () => {
   return ( 
     <>
-      <h1>Hello</h1>
+     <Table />
     </>
    );
 }
